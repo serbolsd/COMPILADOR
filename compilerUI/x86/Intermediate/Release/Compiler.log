@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Compiler.cpp
+  ErrorsModule.cpp
+c:\users\sergi\source\repos\compiler\compiler\errorsmodule.cpp(24): warning C4551: la llamada a la función no tiene lista de argumentos
+  LexAnalyzer.cpp
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(85): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(98): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(132): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(145): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(226): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(275): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(296): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(338): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(359): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(470): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(483): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(517): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(530): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(616): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(629): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(663): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(676): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(857): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(866): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(880): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(895): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(944): warning C4018: '<': no coinciden signed/unsigned
+  Token.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Compiler.vcxproj -> C:\Users\sergi\source\repos\compilerUI\x86\Exe\Release\Compilerx86.dll

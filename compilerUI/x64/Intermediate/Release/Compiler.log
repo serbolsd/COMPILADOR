@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Compiler.cpp
+  ErrorsModule.cpp
+c:\users\sergi\source\repos\compiler\compiler\errorsmodule.cpp(24): warning C4551: la llamada a la función no tiene lista de argumentos
+  LexAnalyzer.cpp
+  Token.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Compiler.vcxproj -> C:\Users\sergi\source\repos\compilerUI\x64\Exe\Release\Compilerx64.dll
