@@ -1,0 +1,45 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Compiler.cpp
+  ErrorsModule.cpp
+c:\users\sergi\source\repos\compiler\compiler\errorsmodule.cpp(24): warning C4551: la llamada a la función no tiene lista de argumentos
+  GlobalNode.cpp
+  LexAnalyzer.cpp
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(92): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(108): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(149): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(165): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(181): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(219): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(535): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(615): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(631): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(655): warning C4018: '<': no coinciden signed/unsigned
+  LocalNode.cpp
+  SemanticAnalysis.cpp
+  SymbolTable.cpp
+c:\users\sergi\source\repos\compiler\compiler\symboltable.cpp(112): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\symboltable.cpp(174): warning C4018: '<': no coinciden signed/unsigned
+  Syntas_State_Program.cpp
+  SyntaxAnalysis.cpp
+c:\users\sergi\source\repos\compiler\compiler\syntaxanalysis.cpp(64): warning C4018: '<': no coinciden signed/unsigned
+  Syntax_State.cpp
+  Syntax_State_BlockVar.cpp
+  Syntax_State_Dimension.cpp
+  Syntax_State_Function.cpp
+  Syntax_State_Function_Block.cpp
+  Syntax_State_Main.cpp
+  Syntax_State_MainParams.cpp
+  Syntax_State_Params.cpp
+  Syntax_State_Type.cpp
+c:\users\sergi\source\repos\compiler\compiler\syntax_state_type.cpp(44): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\syntax_state_type.cpp(65): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\syntax_state_type.cpp(86): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\syntax_state_type.cpp(106): warning C4018: '<': no coinciden signed/unsigned
+  Syntax_State_Var.cpp
+  Generando código...
+  Compilando...
+  Token.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+  Compiler.vcxproj -> C:\Users\sergi\source\repos\compilerUI\x86\Exe\Release\Compilerx86.dll

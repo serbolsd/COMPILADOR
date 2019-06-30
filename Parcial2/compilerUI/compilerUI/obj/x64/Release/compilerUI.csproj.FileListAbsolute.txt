@@ -1,0 +1,9 @@
+C:\Users\sergi\source\repos\compilerUI\compilerUI\bin\x64\Release\compilerUI.exe.config
+C:\Users\sergi\source\repos\compilerUI\compilerUI\bin\x64\Release\compilerUI.exe
+C:\Users\sergi\source\repos\compilerUI\compilerUI\bin\x64\Release\compilerUI.pdb
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.Form1.resources
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.Properties.Resources.resources
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.csproj.GenerateResource.cache
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.exe
+C:\Users\sergi\source\repos\compilerUI\compilerUI\obj\x64\Release\compilerUI.pdb
