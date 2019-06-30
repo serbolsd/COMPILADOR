@@ -89,6 +89,7 @@ namespace compilerUI
         {
             if(isDLLLoaded)
             {
+                textBox2.Text = "";
                 String [] output = compilerDLLInstance.compileProgram(textBox1.Text);
                 textBox2.Text = output[0];
                 if (output[2] != null)
@@ -286,6 +287,7 @@ namespace compilerUI
                 string data = File.ReadAllText(archivo.FileName);
                 textBox1.Text = data;
                 label4.Text = Path.GetFileName(archivo.FileName);
+                textBox2.Text = "";
                 dataGridView1.Rows.Clear();
                 dataGridView2.Rows.Clear();
             }
@@ -317,6 +319,7 @@ namespace compilerUI
         {
             dataGridView1.Rows.Clear();
             dataGridView2.Rows.Clear();
+            textBox2.Text = "";
             nuevoArchivo();
 
         }

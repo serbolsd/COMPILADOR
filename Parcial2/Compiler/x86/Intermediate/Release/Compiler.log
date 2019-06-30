@@ -12,14 +12,15 @@ c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(165): warning C401
 c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(181): warning C4018: '<': no coinciden signed/unsigned
 c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(219): warning C4018: '<': no coinciden signed/unsigned
 c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(535): warning C4018: '<': no coinciden signed/unsigned
-c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(615): warning C4018: '>=': no coinciden signed/unsigned
-c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(631): warning C4018: '>=': no coinciden signed/unsigned
-c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(655): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(619): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(635): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\lexanalyzer.cpp(659): warning C4018: '<': no coinciden signed/unsigned
   LocalNode.cpp
   SemanticAnalysis.cpp
   SymbolTable.cpp
 c:\users\sergi\source\repos\compiler\compiler\symboltable.cpp(112): warning C4018: '<': no coinciden signed/unsigned
 c:\users\sergi\source\repos\compiler\compiler\symboltable.cpp(174): warning C4018: '<': no coinciden signed/unsigned
+c:\users\sergi\source\repos\compiler\compiler\symboltable.cpp(225): warning C4018: '<': no coinciden signed/unsigned
   Syntas_State_Program.cpp
   SyntaxAnalysis.cpp
 c:\users\sergi\source\repos\compiler\compiler\syntaxanalysis.cpp(64): warning C4018: '<': no coinciden signed/unsigned

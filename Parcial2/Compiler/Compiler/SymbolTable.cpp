@@ -219,3 +219,14 @@ bool Compiler::SymbolTable::symbolExists(std::string sym, ESYMBOL_CAT cat, std::
 	}
 	return false;
 }
+
+void Compiler::SymbolTable::reset()
+{
+	for (int i = 0; i < m_symbols.size(); i++)
+	{
+		m_symbols[i]->reset();
+		delete m_symbols[i];
+		m_symbols[i]=nullptr;
+	}
+	m_symbols.clear();
+}

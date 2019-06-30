@@ -601,6 +601,10 @@ void Compiler::LexAnalyzer::detecteToken(std::string lexema,int line,int type)
 
 void Compiler::LexAnalyzer::clearTokens()
 {
+	for (size_t i = 0; i < m_Tokens.size(); i++)
+	{
+		delete m_Tokens[i];
+	}
 	m_Tokens.clear();
 }
 

@@ -35,6 +35,7 @@ namespace Compiler
 		void*getVal() { return m_val; };
 		std::string getFunction() { return m_function; };
 		LocalNode * getNodolocal() { return m_nodolocal; };
+		void reset();
 	};
 
 }
